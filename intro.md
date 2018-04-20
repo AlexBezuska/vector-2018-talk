@@ -10,13 +10,12 @@
 - Drawing as a kid, artist parents
 - Super Nintendo
 - Drawing and animating until High School
-- Art School 3d animation
+- ~~Art School 3d animation~~
 - Taught myself web design
 
 
 ## Wait a second...
-- Indie Game the Movie
-- Fantasy World
+- Indie Game the Movie = Fantasy World
 - Motivation / confidence boost
 - Try anyway
 - Met Eric
