@@ -26,7 +26,7 @@
   - Lesson:
 
 
- - 18 Kick Bot DX
+- 18 Kick Bot DX
   - Kentucky Fried Pixels 2017 - June 2017
   - https://two-scoop-games.itch.io/kick-bot-dx
   - Lesson: Rewriting a game in a new engine is great for learning
@@ -159,8 +159,8 @@
 
 
 - 1 Apartment 213
- - Global Game Jam 2014 - January 24-26 2014
- - Theme: we don't see things as they are, we see them as we are
- - Alex Bezuska, Eric Lathrop, Mattie Richards, Mike Revel
- - http://globalgamejam.org/2014/games/apartment-213
- - Lesson: You can do this!
+  - Global Game Jam 2014 - January 24-26 2014
+  - Theme: we don't see things as they are, we see them as we are
+  - Alex Bezuska, Eric Lathrop, Mattie Richards, Mike Revel
+  - http://globalgamejam.org/2014/games/apartment-213
+  - Lesson: You can do this!
