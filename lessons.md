@@ -1,79 +1,112 @@
 
 ## What I have learned
 
-##### You can actually do this! or
-##### Finishing your first thing is huge for motivation
-(Apartment 213)
+## Apartment 213
+Global Game Jam
+Jan 2014
+Theme: We don't see things as they are, we see them as we are
+notes:
+- 4 characters/4 perspectives, same Apartment
+- starting games not finishing
+- Finishing a project is huge for motivation
+
+## Kick Bot
+Flappy jam
+Feb 2014
+Theme: Make a hard, almost unplayable game
+Notes:
+- vertical wall jumping game
+- mega man x, super metroid
+- 1 day jam
+- Keep your scope small
 
 
-##### Keep your scope small
-
-(Kick Bot)
-
-
-##### Managing big team is hard
-
-(Mr. Fluffykins' Great Sorting Adventure)
-
-
-##### Character design matters
-
-(Stanley Squeaks and the Emerald Burrito)
+## Desserts Killed Your Daddy
+Ludum Dare 31
+December 2014
+Theme: Entire Game on One Screen
+Notes:
+ - Jam theme to broad
+ - Legend of Zelda A Link to the Past sword slashing
+ - chef hat with rolling pin fighting cookies/cakes
+ - Design around a mechanic
 
 
-##### One strategy is to design around a mechanic
-
-(Desserts Killed Your Daddy)
-
-
-##### Practice your polish
-
-(The Day the World Changed)
-
-
-##### A new take on a classic can be a lot of fun
-
-(Glazing Lazers)
+## The Day the World Changed
+GlobalGame Jam 2015
+Jan 2015
+Theme: What do we do now?
+Notes:
+ - eric's description
+ - compilation of 3 youtubers playing
+*video*
+- You can make a "throw away" game
+- You will still learn
+- learned how to do rotation, particle effects, screenshake
 
 
-##### You can make up your own game jam
 
-(6 hour game jam / KFP)
-
-
-##### Story can be the star of the show
-
-(Treatment and Control)
+##### Bonus Lesson: Share you game with youtubers
+- awesome closure to see someone you dont know play the game
+- some even follow jams
+- jupiter hadley
 
 
-##### Music and sound effects can make a huge difference
-
-(Cluster Junk)
-
-
-##### You can even make a game on a train
-
-(Electropolis)
-
-
-##### Sometimes things just don't work out or You might not finish, but you will learn
-(Cluster Junk / Duolastic)
+## Treatment and Control
+LudumDare 33
+Aug 2015
+Theme: You are the Monster
+Notes:
+- legitimately our first serious game
+- Compilation of 2 youtubers playing
+*video*
+- Story can be the star of the show
 
 
-##### You can make a game by yourself
 
-(Finding Home)
+## Cluster Junk
+LudumDare 34
+Dec 2015
+Theme: Growing
+Notes:
+- 2d katamari like
+- piece of trash -> largest trash island in the ocean
+*video*
+- Ben Wiley
+- A dedicated audio person can make a huge difference
 
 
-##### Put part of yourself into your work
-(Fog and Glass)
+## Duolastic
+GlobalGame Jam
+Jan 2017
+Theme: Waves
+Notes:
+- scope
+- first 3d game
+- first online multiplayer
+- Sometimes things just don't work out
 
 
-##### Rewriting a game in a new engine is great for learning
+## Finding Home
+Ludum Dare 37
+December 2016
+Theme: One Room
+Notes:
+- wanted to prove to myself
+- 4 years since indie game the movie
+- story based game
+- rhyme
+*video*
+- You can make a game by yourself
 
-(Kick Bot DX)
 
-
-##### If the game is fun just to move around in you are on to something.
-
-(PullPals)
+## PullPals
+Ludum Dare 40
+Dec 2017
+Theme: The more you have, the worse it is
+Notes:
+- Cute monster, stretch, climb to goal
+- well received, first time in the top 100 with 57th
+- fellow jammer ofering honest feedback online
+- growing extra arms and cutting didnt add anything
+- Sometimes cutting features can make the game better
